@@ -1,0 +1,39 @@
+{
+  "name": "localflavor-us-states-js",
+  "version": "0.1.0",
+  "description": "Port of django-localflavor US States Abbreviations",
+  "main": "index.js",
+  "keywords": [
+    "us",
+    "united",
+    "states",
+    "america",
+    "django",
+    "localflavor",
+    "local",
+    "flavor",
+    "contiguous",
+    "territories",
+    "armed",
+    "forces",
+    "military",
+    "cofa",
+    "compact",
+    "of",
+    "free",
+    "association",
+    "obsolete",
+    "usps",
+    "postal",
+    "service",
+    "choices",
+    "normalized",
+    "abbreviations"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agilgur5/localflavor-us-states-js.git"
+  },
+  "author": "Anton Gilgur",
+  "license": "Apache-2.0"
+}
