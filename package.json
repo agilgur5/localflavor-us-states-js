@@ -1,6 +1,6 @@
 {
   "name": "localflavor-us-states-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Port of django-localflavor US States Abbreviations",
   "main": "index.js",
   "keywords": [
